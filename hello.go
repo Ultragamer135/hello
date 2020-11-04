@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/user/hello/morestrings"
+	"github.com/UsernameNotAvalible/hello/morestrings"
 )
 
 func main() {
